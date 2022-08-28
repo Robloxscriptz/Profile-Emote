@@ -1,3 +1,5 @@
+Go to your Roblox profile press inspect then press console then straight up paste whats underneath this text.
+
 $.ajax({
   method: "POST",
   url: "https://avatar.roblox.com/v1/avatar/thumbnail-customization",
